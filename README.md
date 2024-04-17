@@ -1,2 +1,2 @@
 # Personal-site
-This repo was created to backup myg Personal Website
+This repo was created to backup my Personal Website
